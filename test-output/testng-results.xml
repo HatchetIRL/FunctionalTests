@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-10T11:29:37 GMT" name="Default suite" finished-at="2023-01-10T11:29:43 GMT" duration-ms="6531">
+    <groups>
+    </groups>
+    <test started-at="2023-01-10T11:29:37 GMT" name="Default test" finished-at="2023-01-10T11:29:43 GMT" duration-ms="6531">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:36 GMT" name="setupDriver" finished-at="2023-01-10T11:29:37 GMT" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:37 GMT" name="setUp" finished-at="2023-01-10T11:29:42 GMT" duration-ms="5480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySuccessfulLogin()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:42 GMT" name="verifySuccessfulLogin" finished-at="2023-01-10T11:29:43 GMT" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:43 GMT" name="tearDown" finished-at="2023-01-10T11:29:43 GMT" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
