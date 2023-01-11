@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-10T11:29:37 GMT" name="Default suite" finished-at="2023-01-10T11:29:43 GMT" duration-ms="6531">
+  <suite started-at="2023-01-11T18:52:38 GMT" name="Default suite" finished-at="2023-01-11T18:52:43 GMT" duration-ms="5036">
     <groups>
     </groups>
-    <test started-at="2023-01-10T11:29:37 GMT" name="Default test" finished-at="2023-01-10T11:29:43 GMT" duration-ms="6531">
+    <test started-at="2023-01-11T18:52:38 GMT" name="Default test" finished-at="2023-01-11T18:52:43 GMT" duration-ms="5036">
       <class name="tests.LoginTests">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:36 GMT" name="setupDriver" finished-at="2023-01-10T11:29:37 GMT" duration-ms="913" status="PASS">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-11T18:52:38 GMT" name="setupDriver" finished-at="2023-01-11T18:52:38 GMT" duration-ms="172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:37 GMT" name="setUp" finished-at="2023-01-10T11:29:42 GMT" duration-ms="5480" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-11T18:52:38 GMT" name="setUp" finished-at="2023-01-11T18:52:42 GMT" duration-ms="4028" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifySuccessfulLogin()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:42 GMT" name="verifySuccessfulLogin" finished-at="2023-01-10T11:29:43 GMT" duration-ms="475" status="PASS">
+        <test-method signature="verifySuccessfulLogin()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-11T18:52:42 GMT" name="verifySuccessfulLogin" finished-at="2023-01-11T18:52:43 GMT" duration-ms="435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySuccessfulLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-10T11:29:43 GMT" name="tearDown" finished-at="2023-01-10T11:29:43 GMT" duration-ms="560" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTests@6302bbb1]" started-at="2023-01-11T18:52:43 GMT" name="tearDown" finished-at="2023-01-11T18:52:43 GMT" duration-ms="557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
